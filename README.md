@@ -1,7 +1,7 @@
 # A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds
 [Jizong Peng*](https://scholar.google.com/citations?user=s6JKJSymFFsC&hl=en), [Tze Ho Elden Tse*](https://eldentse.github.io/), [Kai Xu](https://kai422.github.io/), [Wenchao Gao](https://ieeexplore.ieee.org/author/38265568800), [Angela Yao](https://www.comp.nus.edu.sg/~ayao/) (* indicates equal contribution)
 
-[[Project page]]() [[arXiv]]() [[Data]]() 
+[[Project page]](https://eldentse.github.io/contrained-optimization-3dgs/) [[arXiv]](https://arxiv.org/pdf/2504.09129) [[Data]]() 
 
 <p align="center">
 <img src="assets/teaser.jpg" width="600">
